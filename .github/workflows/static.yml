@@ -1,7 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy develop version of kubuntu.org to Github Pages
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
 
 on:
   # Runs on pushes targeting the develop branch
